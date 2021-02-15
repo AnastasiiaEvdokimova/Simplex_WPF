@@ -1,0 +1,68 @@
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\bin\Debug\Simplex.exe.config
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\bin\Debug\Simplex.exe
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\bin\Debug\Simplex.pdb
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\MainWindow.g.cs
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\App.g.cs
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.cache
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.lref
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\MainWindow.baml
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.g.resources
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.exe
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.pdb
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Vvod.g.cs
+D:\Учеба\3 курс работы и не только\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Vvod.baml
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\MainWindow.g.cs
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Vvod.g.cs
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\App.g.cs
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.cache
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.lref
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.exe
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.pdb
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\bin\Debug\Simplex.exe.config
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\bin\Debug\Simplex.exe
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\bin\Debug\Simplex.pdb
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\MainWindow.baml
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Vvod.baml
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.g.resources
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+D:\Git\STUDENT\3 курс\2 семестр\Математическое моделирование\Программа\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex.csprojResolveAssemblyReference.cache
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\MainWindow.g.cs
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Vvod.g.cs
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\App.g.cs
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.cache
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.lref
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex.exe
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex.pdb
+C:\Users\m_gen\Desktop\Simplex\Simplex\bin\Debug\Simplex.exe.config
+C:\Users\m_gen\Desktop\Simplex\Simplex\bin\Debug\Simplex.exe
+C:\Users\m_gen\Desktop\Simplex\Simplex\bin\Debug\Simplex.pdb
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\MainWindow.baml
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Vvod.baml
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex.g.resources
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+C:\Users\m_gen\Desktop\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+D:\Проекты лазаруса\Simplex\Simplex\bin\Debug\Simplex.exe.config
+D:\Проекты лазаруса\Simplex\Simplex\bin\Debug\Simplex.exe
+D:\Проекты лазаруса\Simplex\Simplex\bin\Debug\Simplex.pdb
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex.csprojAssemblyReference.cache
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\MainWindow.g.cs
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Vvod.g.cs
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\App.g.cs
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.cache
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex_MarkupCompile.lref
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\MainWindow.baml
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Vvod.baml
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex.g.resources
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex.Properties.Resources.resources
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex.csproj.GenerateResource.cache
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex.csproj.CoreCompileInputs.cache
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex.exe
+D:\Проекты лазаруса\Simplex\Simplex\obj\Debug\Simplex.pdb

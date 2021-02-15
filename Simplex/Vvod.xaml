@@ -1,0 +1,18 @@
+﻿<Window x:Class="Simplex.Vvod"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Simplex"
+        mc:Ignorable="d"
+        Title="Vvod" Height="450" Width="800" Closed="Window_Closed">
+    <Grid>
+        <Button Content="Начать решение" HorizontalAlignment="Left" Margin="209,362,0,0" VerticalAlignment="Top" Width="204" Click="Button_Click"/>
+        <Grid Height="263" HorizontalAlignment="Left" Margin="65,20,0,0" x:Name="grid1" VerticalAlignment="Top" Width="383" ShowGridLines="True" />
+        <Grid Height="263" HorizontalAlignment="Left" Margin="537,20,0,0" x:Name="grid3" VerticalAlignment="Top" Width="84" ShowGridLines="True" />
+        <Grid Height="263" HorizontalAlignment="Left" Margin="453,20,0,0" x:Name="grid2" VerticalAlignment="Top" Width="84" ShowGridLines="True" />
+        <Grid Height="23" HorizontalAlignment="Left" Margin="65,303,0,0" x:Name="grid4" VerticalAlignment="Top" Width="383" ShowGridLines="True" />
+        <Label Content="F(x)" HorizontalAlignment="Left" Margin="-1,300,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
